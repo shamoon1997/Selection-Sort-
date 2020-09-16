@@ -28,7 +28,7 @@ int main()
 
 	for(int i=0 ; i<10 ; i++)
 	{
-	cout<<"Sorted Arrays is : " << Arrays[i] << endl ;
+	cout<<"Sorted Arrays is : " << Arrays[i] << endl ;   //Printing the Array
 	}
 	return 0 ;
 }
