@@ -21,7 +21,7 @@ int main()
 		}
 		swap(Arrays[m],Arrays[k]) ;
 		k++;
-		min=Arrays[k]; 
+		min=Arrays[k]; //Checking it 
 
 	}
 
